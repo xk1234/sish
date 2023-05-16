@@ -13,16 +13,18 @@ Path Setting: Easily set your PATH environment variable to include any directori
 ## Why sish?
 sish stands out due to its simplicity, power, and modern design. It's designed with today's power users in mind, providing advanced features that make your command line experience more efficient and enjoyable. sish is an impressive shell that transforms the way you interact with your UNIX systems.
 
-## Sample commands:
+## Sample commands:  
 Command: ls -m  -a   & whoami   &   pwd -P    & sleep 3 &  path  /usr/bin  /bin
 
-Output:
-., .., README.md, sish, sish.c
-yxk
+Output:  
+., .., README.md, sish, sish.c  
+yxk  
 /Users/yxk/Desktop/Projects/sish
 
 ## Roadmap
-- 
+- Output redirection
+- Help command
+- ChatGPT integration
 
 ## Contributing
 sish is an open-source project, and we encourage contributions! If you find a bug, have a feature request, or want to contribute code, please feel free to open an issue or submit a pull request.
